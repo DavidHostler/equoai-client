@@ -75,3 +75,4 @@ And there you go. That's on how to use the vector db for the current version of 
 Stay tuned
 
 
+
