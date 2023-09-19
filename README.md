@@ -35,11 +35,14 @@ project_name='davesdb'
 
 # Create the project, and upload some text for your query!
 # In this example, the CEO is uploading some of his spicy takes to his own vector database
-query = [  "Canada is one of Britain's oldest former colonies",
-           "Lamb of God is an awesome heavy metal band. Black Veil Brides isn't as great.", 
+query = [  
+           "Canada is one of Britain's oldest former colonies",
+           "Lamb of God is an awesome heavy metal band. Black Veil Brides isn't really my thing.", 
            "Starbucks has the best customer service and best tasting coffee of any coffee chain ever. Sorry Tim Horton's",
            "Pineapples definitely belong on pizza", 
-           "Jojo's bizarre adventure is one of the greatest animes of all time."]
+           "Jojo's bizarre adventure is one of the greatest animes of all time."
+]
+
 equoai.create_new_project(query, project_name)
 
 # Now let's say we wanted to query these embeddings via similarity search.
