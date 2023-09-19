@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: equoai
+Version: 0.0.2
+Summary: Python client for accessing the EquoAI platform and all its core services
+Author: David Hostler

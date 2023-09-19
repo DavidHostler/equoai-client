@@ -1,0 +1,8 @@
+README.md
+setup.py
+equoai/__init__.py
+equoai/documentation.py
+equoai.egg-info/PKG-INFO
+equoai.egg-info/SOURCES.txt
+equoai.egg-info/dependency_links.txt
+equoai.egg-info/top_level.txt

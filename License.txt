@@ -1,0 +1,28 @@
+Proprietary Software License Agreement
+
+This License Agreement ("Agreement") is entered into by and between EquoAI and the user ("User") of the [Your Software Name] client software ("Software"). By using the Software, User agrees to be bound by the terms and conditions of this Agreement.
+
+1. Grant of License:
+   - EquoAI grants User a non-exclusive, non-transferable, and limited license to use the Software for the purpose of interacting with our API's.
+
+2. Restrictions:
+   - User shall not reverse engineer, decompile, or modify the Software in any way.
+   - User shall not redistribute the Software without prior written consent from EquoAI.
+
+3. Intellectual Property:
+   - EquoAI retains all rights, title, and interest in and to the Software and any associated intellectual property.
+
+4. Warranty and Liability:
+   - The Software is provided "as-is" without any warranty.
+   - EquoAI shall not be liable for any damages or losses arising from the use of the Software.
+
+5. Termination:
+   - EquoAI reserves the right to terminate this license if User breaches any terms of this Agreement.
+
+6. Contact Information:
+   - For questions or inquiries, please contact EquoAI at david.hostler@equo.ai.
+
+By using the Software, User agrees to abide by the terms of this Agreement.
+
+EquoAI
+September 16, 2023
