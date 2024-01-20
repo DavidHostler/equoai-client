@@ -3,6 +3,5 @@ requires = ["setuptools", "wheel"]
 
 [tool.poetry.dependencies]
 python = ">=3.6"
-sentence-transformers = "^2.2.2"
 requests = "^2.26.0"
 tiktoken = "^0.5.1"

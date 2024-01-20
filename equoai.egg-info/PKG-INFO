@@ -1,5 +1,10 @@
 Metadata-Version: 2.1
 Name: equoai
-Version: 0.0.2
+Version: 1.0.0
 Summary: Python client for accessing the EquoAI platform and all its core services
+Download-URL: https://github.com/DavidHostler/equoai-client
 Author: David Hostler
+Requires-Dist: torch
+Requires-Dist: sentence_transformers
+Requires-Dist: requests
+Requires-Dist: tiktoken
