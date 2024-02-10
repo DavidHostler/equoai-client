@@ -1,1 +1,0 @@
-g++ -shared -o opt.so -fPIC optimizer.cpp

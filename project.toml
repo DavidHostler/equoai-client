@@ -1,5 +1,24 @@
 [build-system]
-requires = ["setuptools", "wheel"]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "equoai"
+version = "1.0.5"
+authors = [
+  { name="David Hostler", email="davidhostler@equoai.onmicrosoft.com" },
+]
+description = "A small example package"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/DavidHostler/equoai-client"
+Issues = "https://github.com/DavidHostler/equoai-client"
 
 [tool.poetry.dependencies]
 python = ">=3.6"

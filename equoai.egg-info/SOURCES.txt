@@ -2,7 +2,7 @@ README.md
 setup.cfg
 setup.py
 equoai/__init__.py
-equoai/documentation.py
+equoai/main.py
 equoai.egg-info/PKG-INFO
 equoai.egg-info/SOURCES.txt
 equoai.egg-info/dependency_links.txt

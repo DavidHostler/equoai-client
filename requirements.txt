@@ -1,4 +1,3 @@
-torch 
-sentence_transformers 
-tiktoken
-requests
+requests==2.31.0
+numpy==1.24.3
+tiktoken==0.5.2
